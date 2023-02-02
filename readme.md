@@ -10,10 +10,10 @@
   -- 
   -->
 
-<h1 align="center">Hi 👋, I'm Jente Rosseel</h1>
+<h1 align="center">Hi 👋, I'm James Njorio</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
+<h3 align="center">ASoftware Developer, ready to start working with open-source!</h3>
 
 <br/>
 
@@ -47,7 +47,7 @@
 
 ### Get to know me
 
-💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
+💬 I'm an expert on **software Engineering forCybersphere Technologies.**
 
 📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
 
